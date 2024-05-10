@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h2 align="center">me chamo Rodolfo D. Liranço</h2>
-<h3 align="center">Sou estudante de Starter Full Stack Developer</h3>
+<h3 align="center">Sou um grande entusiasta em linguagem de programação</h3>
 
 <div align="center">
 
